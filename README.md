@@ -1,5 +1,5 @@
 # python
-easy level for work，记录工作中遇到的一些常用的使用python的场景，博主是智障，不会code，希望勤能补拙
+easy level for work，记录工作中遇到的一些常用的使用python的场景，我是智障，不会code，希望勤能补拙
 
 * 重度数据处理
     * excel/csv/txt增删改查
